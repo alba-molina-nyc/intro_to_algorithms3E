@@ -20,3 +20,11 @@
 
         i =- 1
         decrement i by one (this is how we move down the list)
+
+---
+
+                    value to sort
+                       ⤵️
+            nums = [2, 7, 11, 15], target = 9
+                    ⤴️
+                    nums[i-1]
