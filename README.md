@@ -8,7 +8,7 @@
             list_a = [ 31, 41, 59, 26, 41 ]
     indexing_length = range(1, len(list_a))
 
-    initiate for loop for indexing_length
+    - initiate for loop for indexing_length
     set var
 
                                             list_a[i] @ beginning of while loop
